@@ -2,6 +2,8 @@
 
 > Many sources of information have proved useful and formative.  This repository serves as both a nod to those upon whose shoulders I stand, and a reference for myself and others who are seeking out similar information in the future.
 
+Acknowledgements will be separated by knowledge domain.
+
 ## Documentation
 
 * [PurpleBooth's good readme template](https://github.com/PurpleBooth/a-good-readme-template)
