@@ -13,3 +13,7 @@ Acknowledgements will be separated by knowledge domain.
 
 * [igor-feoktistov](https://github.com/igor-feoktistov)'s [Infoblox-API-Python](https://github.com/Infoblox-Development/Infoblox-API-Python)
 * [tjarrettveracode](https://github.com/tjarrettveracode)'s [Veracode API Helper](https://github.com/tjarrettveracode/veracode-api-py/blob/master/veracode_api_py/apihelper.py)
+
+## Templates
+
+* [9to5IT](https://github.com/9to5IT)'s [PowerShell Script Template](https://gist.github.com/9to5IT/9620683)
